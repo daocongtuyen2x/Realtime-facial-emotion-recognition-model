@@ -27,4 +27,5 @@ You can go to `demo/` and use `demo.ipynb` run on colab or use the code below:
 ```
 python demo.py
 ```
+![Gif demo](demo/demo.gif)
 

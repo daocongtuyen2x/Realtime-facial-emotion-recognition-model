@@ -12,7 +12,7 @@ Here we use Facial Emotion Recognition 2013 (FER2013) to train our model, you ca
 ### Mini-Fer model
 You can see the model architecture in image below:
 :------------------------------------------------------:
-![Model architecture here](images/Model_architecture.png)
+![Model architecture here](images/model.png)
 
 ### Training
 To install the required packages, run `pip install -r requirements.txt`.

@@ -12,7 +12,7 @@ Here we use Facial Emotion Recognition 2013 (FER2013) to train our model, you ca
 ### Mini-Fer model
 You can see the model architecture in image below:
 :------------------------------------------------------:
-![Model architecture here](images/model.png)
+![Model architecture here](images/modelx.png)
 
 ### Training
 To install the required packages, run `pip install -r requirements.txt`.
@@ -24,6 +24,9 @@ Losses           |  Accs
 :-------------------------:|:-------------------------:
 ![Optimizers](images/loss.png)  |  ![Schedulers](images/accuracy.png)
 
+Confusion Matrix
+
+![Confuse Matrix](images/confuse_matrix.png)
 ### Demo
 You can go to `demo/` and use `demo.ipynb` run on colab or use the code below:
 ```

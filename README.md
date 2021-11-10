@@ -26,7 +26,7 @@ Losses           |  Accs
 
 Confusion Matrix
 
-![Confuse Matrix](images/confuse_matrix.png)
+![Confusion Matrix](images/confuse_matrix.png)
 ### Demo
 You can go to `demo/` and use `demo.ipynb` run on colab or use the code below:
 ```

@@ -10,7 +10,7 @@ Our model got **71.63 %** accuracy on public test and got **68.52 %** accuracy o
 Here we use Facial Emotion Recognition 2013 (FER2013) to train our model, you can find more information in `dataset/fer2013/readme.txt`
 
 ### Mini-Fer model
-You can see the model architecture in image below:
+You can see the model's architecture in image below:
 :------------------------------------------------------:
 ![Model architecture here](images/modelx.png)
 
